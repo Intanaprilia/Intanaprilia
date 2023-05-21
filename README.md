@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working on <a href="https://dewahoster.co.id/">dewahoster</a>
-- 🌱 I’m currently learning about JS for Front-End Web dan Back-End
-- 💬 Feel free to ask me about web development
+- 🌱 I’m currently learning about Ptyhon
+- 💬 Feel free to ask me about web development and data mining
 - 📫 How to reach me: nurintanaprilia4@gmail.com
-- ⚡ Fun fact: Nolep
+- ⚡ Fun fact: Nothing
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
